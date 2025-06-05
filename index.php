@@ -32,6 +32,7 @@
         <div class="link"><a href="./exer17/exer17.php">Exercício 17: Censurador de Palavras</a></div>
         <div class="link"><a href="./exer18/exer18.php">Exercício 18: Formatador de Títulos</a></div>
         <div class="link"><a href="./exer19/exer19.php">Exercício 19: Extrator de Acrônimo</a></div>
+        <div class="link"><a href="./exer20/exer20.php">Exercício 20: Calculadora Do Dobro</a></div>
     </div>
 
 
