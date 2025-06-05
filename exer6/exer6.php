@@ -27,6 +27,7 @@
         echo "<p>O fatorial de $numero é: <strong>$resultado</strong>.</p>";
     }
     ?>
+    <a href="../index.php">Voltar</a>
 </div>
 </body>
 </html><?php

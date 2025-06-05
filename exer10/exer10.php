@@ -34,6 +34,7 @@
         echo "<p>Valor de cada parcela: <strong>R$ " . number_format($valorParcela, 2, ',', '.') . "</strong></p>";
     }
     ?>
+    <a href="../index.php">Voltar</a>
 </div>
 </body>
 </html><?php

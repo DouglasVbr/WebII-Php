@@ -23,6 +23,7 @@
         echo "<p>Se você nasceu em $anoNascimento, sua idade é: <strong>$idade anos</strong>.</p>";
     }
     ?>
+    <a href="../index.php">Voltar</a>
 </div>
 </body>
 </html><?php

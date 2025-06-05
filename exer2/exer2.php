@@ -27,6 +27,7 @@
             echo "<p>A soma de $num1 e $num2 é: <strong>$soma</strong>.</p>";
         }
         ?>
+        <a href="../index.php">Voltar</a>
     </div>
 </body>
 </html>

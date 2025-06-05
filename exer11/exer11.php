@@ -25,6 +25,7 @@
         }
     }
     ?>
+    <a href="../index.php">Voltar</a>
 </div>
 </body>
 </html><?php

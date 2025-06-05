@@ -26,6 +26,7 @@
         echo "</ul>";
     }
     ?>
+    <a href="../index.php">Voltar</a>
 </div>
 </body>
 </html>
